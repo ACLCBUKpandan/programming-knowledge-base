@@ -1,0 +1,2 @@
+- In  [[Computer Programming]], variables are used to store information to be referenced and manipulated in a computer program.
+- They provide labeling data with a descriptive name, so our programs can be understood more clearly by the reader and ourselves.

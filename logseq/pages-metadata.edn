@@ -1,0 +1,81 @@
+[{:block/name "a",
+  :block/created-at 1654437289978,
+  :block/updated-at 1654437289978}
+ {:block/name "abstraction",
+  :block/created-at 1654440216643,
+  :block/updated-at 1654440308197}
+ {:block/name "b",
+  :block/created-at 1654437289979,
+  :block/updated-at 1654437289979}
+ {:block/name "c",
+  :block/created-at 1654437289979,
+  :block/updated-at 1654437289979}
+ {:block/name "classes",
+  :block/created-at 1654440784184,
+  :block/updated-at 1654440813053}
+ {:block/name "computer programming",
+  :block/created-at 1654437309070,
+  :block/updated-at 1654437409929}
+ {:block/name "doing",
+  :block/created-at 1654437289979,
+  :block/updated-at 1654437289979}
+ {:block/name "done",
+  :block/created-at 1654437289979,
+  :block/updated-at 1654437289979}
+ {:block/name "encapsulation",
+  :block/created-at 1654437640675,
+  :block/updated-at 1654440536977}
+ {:block/name "functional programming",
+  :block/created-at 1654441669099,
+  :block/updated-at 1654442375355}
+ {:block/name "functions",
+  :block/created-at 1654437592811,
+  :block/updated-at 1654442108994}
+ {:block/name "in-progress",
+  :block/created-at 1654437289979,
+  :block/updated-at 1654437289979}
+ {:block/name "inheritance",
+  :block/created-at 1654441073534,
+  :block/updated-at 1654441073534}
+ {:block/name "jun 5th, 2022",
+  :block/created-at 1654437262834,
+  :block/updated-at 1654437262834}
+ {:block/name "later",
+  :block/created-at 1654437289979,
+  :block/updated-at 1654437289979}
+ {:block/name "now",
+  :block/created-at 1654437289979,
+  :block/updated-at 1654437289979}
+ {:block/name "object-oriented programming",
+  :block/created-at 1654437431642,
+  :block/updated-at 1654441198801}
+ {:block/name "objects",
+  :block/created-at 1654439429666,
+  :block/updated-at 1654440777555}
+ {:block/name "paradigms",
+  :block/created-at 1654438219571,
+  :block/updated-at 1654441765066}
+ {:block/name "programming language",
+  :block/created-at 1654438251329,
+  :block/updated-at 1654439924339}
+ {:block/name "python",
+  :block/created-at 1654437958460,
+  :block/updated-at 1654440041799}
+ {:block/name "strings",
+  :block/created-at 1654440052276,
+  :block/updated-at 1654440107112}
+ {:block/name "text editor",
+  :block/created-at 1654437894497,
+  :block/updated-at 1654437926845}
+ {:block/name "todo",
+  :block/created-at 1654437289979,
+  :block/updated-at 1654437289979}
+ {:block/name "variables",
+  :block/created-at 1654438052868,
+  :block/updated-at 1654438147536}
+ {:block/name "wait",
+  :block/created-at 1654437289979,
+  :block/updated-at 1654437289979}
+ {:block/name "waiting",
+  :block/created-at 1654437289978, 
+  :block/updated-at 1654437289978}]

@@ -1,0 +1,1 @@
+- A string is a collection of characters surrounded by single or double quotes (depends on the language).

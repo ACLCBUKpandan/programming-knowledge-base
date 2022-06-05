@@ -1,0 +1,4 @@
+- Encapsulation is a mechanism of restricting the **direct** access to some components of an object, such as that users cannot access state values for all the variables of a particular [[Objects]].
+- Encapsulation can be used to hide both data members and data [[Functions]] associated with an instantiated class or [[Objects]].
+-
+-

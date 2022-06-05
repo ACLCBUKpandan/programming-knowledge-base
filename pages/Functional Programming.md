@@ -1,0 +1,7 @@
+- Functional Programming is a way of thinking about software construction by creating pure [[Functions]] .
+- It avoid concepts of shared state, mutable data observed in [[Object-Oriented Programming]].
+-
+- Functional Languages emphasizes on expressions and declarations rather than execution of statements.
+-
+- https://www.leadingagile.com/wp-content/uploads/2018/02/When-functional-programming-isnt.jpg
+-

@@ -1,0 +1,1 @@
+- a type of computer program that edits plain text.

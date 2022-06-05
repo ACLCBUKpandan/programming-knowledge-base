@@ -1,0 +1,3 @@
+- Abstraction is used to hide background details or unnecessary implementation about the data so that the users only see the required information.
+- It is one of the most important and essential features of [[Object-Oriented Programming]]
+-

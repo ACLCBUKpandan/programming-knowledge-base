@@ -1,0 +1,5 @@
+- OOP is a programming [[Paradigms]] based on the concepts of [[Objects]].
+- a software programming[[Computer Programming]] model constructed around objects.
+- A type of programming which programmers define the data type and data structures, and also the types of operations ([[Functions]]) that can be applied to the data structure.
+- The data structure becomes the [[Objects]] that includes both data and [[Functions]]. In addition, programmers can create relationships between one object and another. For example, [[Objects]] can inherit characteristics from other objects.
+-

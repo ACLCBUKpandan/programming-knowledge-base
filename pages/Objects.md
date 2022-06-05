@@ -1,7 +1,3 @@
 - May contain data, in the form of fields, often known as attributes; and code code in the form of procedures, often known as methods [[Functions]].
--
 - A feature of objects is that an object's procedures can access and often modify the data fields of the object with which they are associated.
--
--
 - https://miro.medium.com/max/810/1*xiYI_rl-_pX_27BAjxBL3g.png
--
